@@ -17,5 +17,9 @@ namespace test0628_try2 {
         private void button1_Click(object sender, EventArgs e) {
             MessageBox.Show("yes");
         }
+
+        private void button2_Click(object sender, EventArgs e) {
+            MessageBox.Show("you are amzing");
+        }
     }
 }
