@@ -21,5 +21,9 @@ namespace test0628_try2 {
         private void button2_Click(object sender, EventArgs e) {
             MessageBox.Show("you are amzing");
         }
+
+        private void button3_Click(object sender, EventArgs e) {
+            MessageBox.Show("branch");
+        }
     }
 }
